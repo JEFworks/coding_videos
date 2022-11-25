@@ -1,0 +1,5 @@
+*.RData
+*~
+*.Rproj
+.Rproj*
+data/
