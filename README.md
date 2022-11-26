@@ -1,5 +1,5 @@
-# coding_videos
+# Coding Videos
 
-## data
+Code dump of code I've written while recording myself doing exploratory bioinformatics spatial transcriptomics data analysis 
 
-from https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-ffpe-1-standard-1-3-0
+https://www.youtube.com/jefworks
