@@ -1,5 +1,8 @@
+.Rhistory
 *.RData
 *~
 *.Rproj
 .Rproj*
 data/
+.Rproj.user
+*.csv.gz
